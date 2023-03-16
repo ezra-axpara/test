@@ -3,7 +3,7 @@
   src: url("https://ezra-axpara.github.io/test/AvenirNext-Regular.ttf");
 }
 #swagger-ui {
-  font-family: "Avenir Next", monospace;
+  font-family: "Avenir Next", monospace !important;
 }
 #swagger-ui .topbar {
   background-color: #8c4799;
