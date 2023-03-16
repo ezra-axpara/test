@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Avenir Next";
+  src: url("https://drive.google.com/uc?export=view&id=1orj9pXDQgryWGFkFuFmfzORvUtzPo7Rc");
+}
+
+#swagger-ui .topbar {
+  background-color: #8c4799;
+}
