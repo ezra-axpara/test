@@ -2,6 +2,9 @@
   font-family: "Avenir Next";
   src: url("https://ezra-axpara.github.io/test/AvenirNext-Regular.ttf");
 }
+*{
+   font-family: "Avenir Next", monospace !important;
+}
 #swagger-ui {
   font-family: "Avenir Next", monospace !important;
 }
