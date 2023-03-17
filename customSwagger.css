@@ -1,4 +1,10 @@
 @charset "UTF-8";
+
+@font-face {
+  font-family: "Avenir Next";
+  src: url("https://ezra-axpara.github.io/test/AvenirNext-Regular.ttf");
+}
+
 .swagger-ui html {
   box-sizing: border-box;
 }
@@ -1362,8 +1368,8 @@
 
 .swagger-ui .info p {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
-  color: #3b4151;
+  font-family: "Avenir Next",Open Sans, sans-serif;
+  color: #426da9;
 }
 
 .swagger-ui .info code {
@@ -1379,8 +1385,8 @@
   font-size: 14px;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  font-family: Open Sans, sans-serif;
-  color: #4990e2;
+  font-family: "Avenir Next",Open Sans, sans-serif;
+  color: #8c4799;
 }
 
 .swagger-ui .info a:hover {
@@ -1703,7 +1709,7 @@
 
 .swagger-ui .topbar {
   padding: 8px 30px;
-  background-color: #3f51b5;
+  background-color: #8c4799;
   box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.4), 0 3px 1px -2px rgba(0, 0, 0, 0.2),
     0 1px 5px 0 rgba(0, 0, 0, 0.12);
 }
