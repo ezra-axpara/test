@@ -1,13 +1,28 @@
 @font-face {
   font-family: "Avenir Next";
-  src: url("https://ezra-axpara.github.io/test/AvenirNext-Regular.ttf");
+  src: url("https://github.com/ezra-axpara/test/raw/main/AvenirNext-Regular.ttf");
 }
-*{
-   font-family: "Avenir Next", monospace !important;
-}
-#swagger-ui {
+* {
   font-family: "Avenir Next", monospace !important;
 }
-#swagger-ui .topbar {
+.swagger-ui .topbar {
   background-color: #8c4799;
+}
+.swagger-ui .opblock-tag {
+  color: #426da9;
+}
+.swagger-ui .opblock-tag:hover {
+  background-color: #426da933;
+}
+.swagger-ui .opblock .opblock-get {
+  background-color: #6dcdb8;
+}
+.swagger-ui .opblock .opblock-post {
+  background-color: #fbde40;
+}
+.swagger-ui .opblock .opblock-update {
+  background-color: #e87722;
+}
+.swagger-ui .opblock .opblock-delete {
+  background-color: #ef6079;
 }
