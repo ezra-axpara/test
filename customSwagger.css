@@ -14,14 +14,14 @@
 .swagger-ui .opblock-tag:hover {
   background-color: #426da933;
 }
-.swagger-ui .opblock .opblock-get {
+.swagger-ui .opblock .opblock.opblock-get {
   background-color: #6FCEB933;
   border-color: #6dcdb8;
 }
-.swagger-ui .opblock .opblock-get .opblock-summary {
+.swagger-ui .opblock .opblock.opblock-get .opblock-summary {
   border-color: #6dcdb8;
 }
-.swagger-ui .opblock .opblock-get .opblock-summary .opblock-summary-method {
+.swagger-ui .opblock .opblock.opblock-get .opblock-summary .opblock-summary-method {
   background-color: #6dcdb8;
 }
 .swagger-ui .opblock .opblock-post .opblock-summary-method {
