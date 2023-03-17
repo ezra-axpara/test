@@ -12,14 +12,14 @@
   color: #426da9;
 }
 .swagger-ui .opblock-tag .operation-tag-content .opblock.opblock-get {
-  background-color: #6FCEB933;
-  border-color: #6dcdb8;
+  background-color: #6FCEB933 !important;
+  border-color: #6dcdb8 !important;
 }
 .swagger-ui .opblock-tag .operation-tag-content .opblock.opblock-get .opblock-summary {
-  border-color: #6dcdb8;
+  border-color: #6dcdb8 !important;
 }
 .swagger-ui .opblock-tag .operation-tag-content .opblock.opblock-get .opblock-summary .opblock-summary-method {
-  background-color: #6dcdb8;
+  background-color: #6dcdb8 !important;
 }
 .swagger-ui .opblock-tag:hover {
   background-color: #426da933;
