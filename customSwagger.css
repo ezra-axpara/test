@@ -24,22 +24,3 @@
 .swagger-ui .opblock-tag:hover {
   background-color: #426da933;
 }
-.swagger-ui .opblock .opblock.opblock-get {
-  background-color: #6FCEB933;
-  border-color: #6dcdb8;
-}
-.swagger-ui .opblock .opblock.opblock-get .opblock-summary {
-  border-color: #6dcdb8;
-}
-.swagger-ui .opblock .opblock.opblock-get .opblock-summary .opblock-summary-method {
-  background-color: #6dcdb8;
-}
-.swagger-ui .opblock .opblock-post .opblock-summary-method {
-  background-color: #fbde40;
-}
-.swagger-ui .opblock .opblock-update .opblock-summary-method {
-  background-color: #e87722;
-}
-.swagger-ui .opblock .opblock-delete .opblock-summary-method {
-  background-color: #ef6079;
-}
