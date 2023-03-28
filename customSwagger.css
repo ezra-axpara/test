@@ -1597,7 +1597,7 @@
 }
 
 .swagger-ui .opblock.opblock-post .opblock-summary-method {
-  background: #009688;
+  background: #6dcdb8;
 }
 
 .swagger-ui .opblock.opblock-post .opblock-summary {
@@ -1605,7 +1605,7 @@
 }
 
 .swagger-ui .opblock.opblock-post .tab-header .tab-item.active h4 span:after {
-  background: #009688;
+  background: #6dcdb8;
 }
 
 .swagger-ui .opblock.opblock-put {
@@ -1614,7 +1614,7 @@
 }
 
 .swagger-ui .opblock.opblock-put .opblock-summary-method {
-  background: #ff9800;
+  background: #fbde40;
 }
 
 .swagger-ui .opblock.opblock-put .opblock-summary {
@@ -1622,7 +1622,7 @@
 }
 
 .swagger-ui .opblock.opblock-put .tab-header .tab-item.active h4 span:after {
-  background: #ff9800;
+  background: #fbde40;
 }
 
 .swagger-ui .opblock.opblock-delete {
@@ -1631,7 +1631,7 @@
 }
 
 .swagger-ui .opblock.opblock-delete .opblock-summary-method {
-  background: #f44336;
+  background: #ef6079;
 }
 
 .swagger-ui .opblock.opblock-delete .opblock-summary {
@@ -1639,7 +1639,7 @@
 }
 
 .swagger-ui .opblock.opblock-delete .tab-header .tab-item.active h4 span:after {
-  background: #f44336;
+  background: #ef6079;
 }
 
 .swagger-ui .opblock.opblock-get {
@@ -1648,7 +1648,7 @@
 }
 
 .swagger-ui .opblock.opblock-get .opblock-summary-method {
-  background: #3f51b5;
+  background: #e87722;
 }
 
 .swagger-ui .opblock.opblock-get .opblock-summary {
@@ -1656,7 +1656,7 @@
 }
 
 .swagger-ui .opblock.opblock-get .tab-header .tab-item.active h4 span:after {
-  background: #3f51b5;
+  background: #e87722;
 }
 
 .swagger-ui .opblock.opblock-patch {
@@ -1767,7 +1767,7 @@
 body {
   margin: 0;
   background: #ffffff;
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: "Avenir Next","Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 .swagger-ui .opblock {
