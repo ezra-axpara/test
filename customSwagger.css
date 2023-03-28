@@ -9,6 +9,9 @@
   font-family: "Avenir Next", Open Sans, sans-serif !important;
 }
 
+.topbar-wrapper img {
+    content:url('https://ezra-axpara.github.io/test/calgrows-logo.png');
+}
 
 .swagger-ui html {
   box-sizing: border-box;
