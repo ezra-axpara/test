@@ -5,6 +5,11 @@
   src: url("https://ezra-axpara.github.io/test/AvenirNext-Regular.ttf");
 }
 
+* {
+  font-family: "Avenir Next", Open Sans, sans-serif !important;
+}
+
+
 .swagger-ui html {
   box-sizing: border-box;
 }
